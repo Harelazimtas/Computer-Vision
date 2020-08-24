@@ -20,7 +20,7 @@ creating a large data of numbers from 1-100 and then using augmentations to incr
   Finally I used 5 models:resnet18,resnext,googlenet,densenet, mobilenet. and then used Ensemble to get a more accurate prediction result
   
   <li>Intel-Cancer-kaggle</li>
-  Participation in the Kaggle Late Competition A type identification competition.
+  Participation in the Kaggle Late Competition A type classification  competition.
   In the competition I also used ensemble to get a better result.
 </ul>
 

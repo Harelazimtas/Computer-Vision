@@ -27,7 +27,7 @@ creating a large data of numbers from 1-100 and then using augmentations to incr
 <h2>Object Detection- Kaggle Competition</h2>
 <p>You can see in the following examples some of the pictures i implements, also you can see the real picture without boxes</p>
 <div>
-  <img src="/Object Detection- Kaggle Competition/Images_Kaggle_Wheat/HorizontalFlip.png" alt="HorizontalFlip" width="400" height="400">
+  <img src="/Object Detection- Kaggle Competition/Images_Kaggle_Wheat/HorizontalFlip.png" alt="HorizontalFlip" width="400" height="200">
   <img src="/Object Detection- Kaggle Competition/Images_Kaggle_Wheat/HueSaturatuinVal.png" alt="HueSaturatuinVal" width="200" height="200">
   <img src="/Object Detection- Kaggle Competition/Images_Kaggle_Wheat/RandomBrightness.png" alt="RandomBrightness" width="200" height="200">
   <img src="/Object Detection- Kaggle Competition/Images_Kaggle_Wheat/Rotate90.png" alt="Rotate90" width="200" height="200">
